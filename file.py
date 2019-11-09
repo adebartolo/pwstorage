@@ -1,11 +1,11 @@
-#gui storage system
+#GUI storage system
 
 from tkinter import *
 from tkinter import messagebox
 import tkinter.messagebox
 
 
-#Global Variables  
+#Variables  
 
 objects = []
 window = Tk()
